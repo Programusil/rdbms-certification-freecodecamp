@@ -1,0 +1,53 @@
+
+
+~~ kitty_ipsum_2.txt info ~~
+
+
+~~ kitty_ipsum_2.txt info ~~
+
+Number of lines:
+
+Number of lines:
+28
+
+Number of words:
+
+Number of words:
+307
+
+Number of characters:
+
+Number of characters:
+1678
+
+Number of times meow or meowzer appears:
+
+Number of times meow or meowzer appears:
+9
+
+Lines that they appear on:
+
+Lines that they appear on:
+
+Lines that they appear on:
+4
+8
+12
+20
+24
+25
+28
+
+Number of times cat, cats, or catnip appears:
+
+Number of times cat, cats, or catnip appears:
+8
+
+Lines that they appear on:
+10
+14
+19
+20
+25
+26
+28
